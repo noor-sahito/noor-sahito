@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I'm Noor
 
-<!--
-**noor-sahito/noor-sahito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer | 📱 Mobile App Developer | 🔐 Cybersecurity Enthusiast
+Building apps, securing systems, learning how things break — and how to fix them.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 What I Do
+- Cybersecurity fundamentals & hands-on labs  
+- Networking, Linux, traffic analysis  
+- Security-focused scripting & projects  
+
+---
+
+### 🎮 Beyond Tech
+- Gamer (story-driven & multiplayer)  
+- ♟️ Chess & 🏸 Badminton  
+- Curious learner, problem-solver
+
+---
+
+📌 *Learning every day. Building step by step.*
